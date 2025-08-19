@@ -34,47 +34,14 @@
 </p>
 <br>
 
-<h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
+### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
-
-  <!-- Stats generales -->
-  <img  align="center"  
-        src="https://github-readme-stats.vercel.app/api?username=JuanMax24&theme=dark&show_icons=true&count_private=true" 
-        alt="Estadísticas de GitHub de JuanMax24"/>
-  <br></br>
-
-  <!-- Streak stats -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" 
-        alt="JuanMax24 streak" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=JuanMax24&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="40%" align="center">
-
-  <!-- Lenguajes más usados -->
-  <img  align="center"  
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMax24&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"
-        alt="Lenguajes más usados de JuanMax24"/>
-
-</td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% 
-           src="https://github-profile-trophy.vercel.app/?username=JuanMax24&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" 
-           alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (end) -->
+<a href="https://github.com/JuanMax24">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JuanMax24&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuanMax24&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 </p>        
 <!--- stats (end) -->
