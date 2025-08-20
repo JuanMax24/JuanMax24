@@ -10,7 +10,7 @@
 <p align="left">
   🎓 DESARROLLADOR DE SOFTWARE
 
-💻 Apasionado por la programación, con experiencia en frontend y un poco de backend utilizando tecnologías como HTML, CSS, JavaScript, PHP, Python, C++ y SQL.
+💻 Programador en formación, con experiencia en frontend y un poco de backend utilizando tecnologías como HTML, CSS, JavaScript, PHP, Python, C++ y SQL.
 
 🚀 He desarrollado proyectos académicos y personales, desde aplicaciones móviles con Android Studio y Jetpack Compose, hasta sistemas CRUD en web con PHP y MySQL, además de sitios web y pequeños juegos de consola.
 
@@ -29,7 +29,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,php,py,css,html,js,nodejs,mysql,git,github,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,c++,php,py,css,html,js,nodejs,mysql,git,github,vscode&perline=12" />
   </a>
 </p>
 <br>
